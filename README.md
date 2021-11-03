@@ -1,8 +1,8 @@
 <p align="center">
   <h3 align="center">DolphinSay</h3>
   <p align="center">
-    <a href="https://github.com/scraly/gophersay/releases/latest"><img alt="GitHub release" src="https://img.shields.io/github/v/release/scraly/gophersay.svg?logo=github&style=flat-square"></a>
-    <a href="https://goreportcard.com/report/github.com/scraly/gophersay"><img src="https://goreportcard.com/badge/github.com/scraly/gophersay" alt="Code Status" /></a>
+    <a href="https://github.com/tranquac/dolphinsay/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/tranquac/dolphinsay.svg?logo=github&style=flat-square"></a>
+    <a href="https://goreportcard.com/report/github.com/tranquac/dolphin"><img src="https://goreportcard.com/badge/github.com/tranquac/dolphinsay" alt="Code Status" /></a>
   </p>
 </p>
 
@@ -15,13 +15,6 @@ DolphinSay is inspired by Cowsay program.
 DolphinSay allow you to display a message said by a cute random Dolphin.
 
 # Installation
-
-For MacOS:
-
-```
-brew tap scraly/tools
-brew install gophersay
-```
 
 # Pre-requisites
 
